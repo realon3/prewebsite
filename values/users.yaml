@@ -1,0 +1,25 @@
+JDoe:
+  id: 1000
+  screen_name: j_doe
+  email: john_doe@greenanimalsbank.io
+  password: John1234*!
+AAndelin:
+  id: 1001
+  screen_name: a_andelin
+  email: anderson_andelin@greenanimalsbank.io
+  password: Anderson1234*!
+MAre:
+  id: 1002
+  screen_name: m_are
+  email: moshe_are@greenanimalsbank.io
+  password: Moshe1234*!
+HBob:
+  id: 1003
+  screen_name: h_bob
+  email: horace_bob@greenanimalsbank.io
+  password: Horace1234*!
+WBallhaus:
+  id: 1004
+  screen_name: w_ballhaus
+  email: william_ballhaus@greenanimalsbank.io
+  password: William1234*!
